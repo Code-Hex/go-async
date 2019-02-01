@@ -3,6 +3,10 @@ Go Async-Group
 
 Go Async Group can be more easily manage goroutine.
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/Code-Hex/go-async)](https://goreportcard.com/report/github.com/Code-Hex/go-async)
+[![GoDoc](https://godoc.org/github.com/Code-Hex/go-async?status.svg)](https://godoc.org/github.com/Code-Hex/go-async)
+
+
 # Synopsis
 
 ```go
