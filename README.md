@@ -8,6 +8,9 @@ Go Async Group can be more easily manage goroutine.
 [![Go Report Card](https://goreportcard.com/badge/github.com/Code-Hex/go-async)](https://goreportcard.com/report/github.com/Code-Hex/go-async)
 [![GoDoc](https://godoc.org/github.com/Code-Hex/go-async?status.svg)](https://godoc.org/github.com/Code-Hex/go-async)
 
+[errgroup](https://godoc.org/golang.org/x/sync/errgroup) has the goal is to cancel all asynchronous when at least one async fails.  
+This package is used to wait until all the executed asynchronous processing is finished.
+
 # Synopsis
 
 ```go
