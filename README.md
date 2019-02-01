@@ -3,9 +3,10 @@ Go Async-Group
 
 Go Async Group can be more easily manage goroutine.
 
+[![CircleCI](https://circleci.com/gh/Code-Hex/go-async.svg?style=svg)](https://circleci.com/gh/Code-Hex/go-async)
+[![codecov](https://codecov.io/gh/Code-Hex/go-async/branch/master/graph/badge.svg)](https://codecov.io/gh/Code-Hex/go-async)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Code-Hex/go-async)](https://goreportcard.com/report/github.com/Code-Hex/go-async)
 [![GoDoc](https://godoc.org/github.com/Code-Hex/go-async?status.svg)](https://godoc.org/github.com/Code-Hex/go-async)
-
 
 # Synopsis
 
@@ -24,7 +25,7 @@ func main() {
 }
 ```
 
-If you want to use at your application, see example.
+If you want to use at your application, see [example](https://github.com/Code-Hex/go-async/blob/master/example_test.go).
 
 # Installation
 
