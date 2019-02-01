@@ -12,7 +12,7 @@ Go Async Group can be more easily manage goroutine.
 
 ```go
 func main() {
-    var ag async.Group
+	var ag async.Group
 	var sum, expected uint32
 	for i := 0; i < times; i++ {
 		expected++
