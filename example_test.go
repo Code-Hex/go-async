@@ -13,7 +13,7 @@ import (
 	"github.com/Code-Hex/go-async"
 )
 
-func main() {
+func ExampleMain() {
 	st := NewApp(8080)
 	st.HandleBackground("/background")
 	st.HandleForeground("/foreground")
